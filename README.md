@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project was completed as part of my **Data Analyst Internship Task 3**. The objective was to use SQL to extract, manipulate, and analyze data from an Ecommerce database.
+This project was completed as part of my **Data Analyst Internship at Elevate Labs Task 3**. The objective was to use SQL to extract, manipulate, and analyze data from an Ecommerce database.
 
 The project demonstrates SQL concepts such as filtering, sorting, grouping, joins, subqueries, aggregate functions, views, and indexes.
 
