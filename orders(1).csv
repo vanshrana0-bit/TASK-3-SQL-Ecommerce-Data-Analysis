@@ -1,0 +1,1001 @@
+order_id,customer_id,product_id,order_date,quantity,total_amount,payment_method,order_status
+1,440,90,2024-12-01,2,9674,UPI,Delivered
+2,489,1,2024-02-09,2,8598,Card,Shipped
+3,10,67,2024-01-05,4,7580,Cash on Delivery,Delivered
+4,490,55,2024-02-06,2,2254,Card,Returned
+5,106,12,2024-06-09,1,3010,Cash on Delivery,Cancelled
+6,793,18,2024-03-09,4,14960,Card,Delivered
+7,9,68,2024-11-08,5,15365,Card,Returned
+8,644,45,2024-03-18,2,6690,Net Banking,Returned
+9,919,28,2024-02-21,1,3415,Card,Delivered
+10,360,76,2024-08-07,4,8908,Cash on Delivery,Shipped
+11,661,32,2024-02-13,3,2682,Card,Cancelled
+12,869,100,2024-12-03,1,3446,Cash on Delivery,Shipped
+13,522,67,2024-04-06,5,9475,Net Banking,Cancelled
+14,803,83,2024-05-02,1,220,Net Banking,Returned
+15,512,15,2024-11-22,2,5822,UPI,Delivered
+16,136,47,2024-07-17,3,12684,Net Banking,Cancelled
+17,782,70,2024-08-29,2,5194,UPI,Delivered
+18,15,76,2024-05-14,1,2227,Card,Delivered
+19,519,8,2024-05-26,4,12212,Net Banking,Returned
+20,85,90,2024-11-23,4,19348,Card,Cancelled
+21,81,11,2024-09-18,3,3426,Card,Shipped
+22,401,69,2024-10-27,3,13839,UPI,Cancelled
+23,748,90,2024-05-02,4,19348,UPI,Shipped
+24,119,12,2024-08-20,4,12040,UPI,Cancelled
+25,123,86,2024-01-07,2,3968,Card,Delivered
+26,976,21,2024-06-26,4,7836,Cash on Delivery,Shipped
+27,768,48,2024-05-17,2,7672,UPI,Delivered
+28,279,43,2024-09-25,4,12564,UPI,Cancelled
+29,643,92,2024-02-09,5,5075,Net Banking,Returned
+30,57,66,2024-09-12,3,4020,Card,Cancelled
+31,792,21,2024-02-22,3,5877,UPI,Shipped
+32,3,95,2024-01-23,5,9285,UPI,Shipped
+33,373,6,2024-07-15,4,12040,Card,Shipped
+34,823,5,2024-12-31,5,6800,Net Banking,Shipped
+35,427,42,2024-06-12,2,7788,Cash on Delivery,Delivered
+36,123,74,2024-09-14,3,3717,UPI,Shipped
+37,48,29,2024-07-24,5,15250,UPI,Returned
+38,336,37,2024-02-14,3,14724,Net Banking,Delivered
+39,299,48,2024-10-15,2,7672,Cash on Delivery,Shipped
+40,606,60,2024-09-09,3,6681,Card,Shipped
+41,955,20,2024-07-28,1,3718,UPI,Shipped
+42,652,70,2024-12-21,3,7791,UPI,Cancelled
+43,870,1,2024-06-06,4,17196,UPI,Shipped
+44,430,68,2024-09-08,2,6146,UPI,Shipped
+45,96,92,2024-01-23,3,3045,Card,Returned
+46,470,90,2024-02-13,3,14511,UPI,Shipped
+47,77,82,2024-10-30,4,16792,UPI,Returned
+48,243,85,2024-05-29,2,1436,Cash on Delivery,Cancelled
+49,326,51,2024-08-19,3,7353,Cash on Delivery,Shipped
+50,140,10,2024-10-26,2,1500,UPI,Shipped
+51,461,14,2024-08-26,2,3258,Cash on Delivery,Returned
+52,367,16,2024-04-16,5,19925,Net Banking,Cancelled
+53,873,60,2024-03-02,3,6681,UPI,Shipped
+54,847,88,2024-12-26,3,8532,UPI,Shipped
+55,94,42,2024-12-30,2,7788,Card,Cancelled
+56,51,51,2024-12-12,5,12255,Cash on Delivery,Cancelled
+57,975,23,2024-07-26,1,4598,Net Banking,Shipped
+58,105,13,2024-03-12,4,6184,UPI,Delivered
+59,134,8,2024-04-11,2,6106,Net Banking,Cancelled
+60,597,88,2024-10-27,1,2844,Cash on Delivery,Delivered
+61,203,3,2024-11-26,1,2620,Net Banking,Shipped
+62,126,12,2024-01-22,3,9030,Net Banking,Delivered
+63,444,22,2024-07-21,5,3560,Net Banking,Delivered
+64,177,49,2024-06-30,4,3508,Card,Shipped
+65,457,36,2024-03-17,3,10878,UPI,Shipped
+66,511,83,2024-07-29,3,660,Net Banking,Delivered
+67,393,12,2024-03-11,3,9030,Net Banking,Shipped
+68,256,83,2024-11-18,5,1100,UPI,Returned
+69,492,92,2024-10-05,3,3045,Net Banking,Cancelled
+70,330,73,2024-07-17,5,17855,Cash on Delivery,Shipped
+71,612,4,2024-04-22,3,2709,UPI,Cancelled
+72,543,8,2024-07-02,4,12212,Card,Shipped
+73,673,13,2024-05-03,2,3092,Cash on Delivery,Delivered
+74,590,98,2024-07-17,2,6304,Cash on Delivery,Shipped
+75,607,23,2024-06-11,2,9196,Cash on Delivery,Delivered
+76,971,91,2024-10-17,3,9045,Card,Shipped
+77,317,64,2024-03-30,5,15360,Net Banking,Delivered
+78,239,12,2024-11-04,1,3010,Card,Delivered
+79,1,68,2024-06-18,4,12292,Card,Shipped
+80,941,44,2024-06-14,2,2636,UPI,Delivered
+81,722,19,2024-03-13,5,9080,UPI,Cancelled
+82,722,10,2024-12-05,3,2250,Net Banking,Delivered
+83,331,44,2024-03-10,3,3954,Card,Returned
+84,665,82,2024-06-11,4,16792,Card,Cancelled
+85,835,29,2024-03-30,5,15250,Net Banking,Cancelled
+86,131,94,2024-03-31,3,11817,UPI,Returned
+87,34,99,2024-04-03,5,16230,Cash on Delivery,Shipped
+88,107,82,2024-09-11,5,20990,Card,Cancelled
+89,244,96,2024-06-26,1,2672,Cash on Delivery,Shipped
+90,842,82,2024-12-28,1,4198,Cash on Delivery,Returned
+91,215,2,2024-05-07,3,1203,UPI,Cancelled
+92,738,33,2024-01-01,1,1165,UPI,Returned
+93,993,57,2024-03-26,4,12820,Net Banking,Returned
+94,560,49,2024-07-11,3,2631,UPI,Returned
+95,167,74,2024-08-19,2,2478,UPI,Delivered
+96,327,38,2024-05-13,1,1721,UPI,Delivered
+97,910,44,2024-07-11,2,2636,Card,Delivered
+98,347,71,2024-10-31,1,2390,Net Banking,Delivered
+99,622,56,2024-08-10,2,4788,Card,Delivered
+100,211,13,2024-04-07,3,4638,Net Banking,Cancelled
+101,305,85,2024-05-01,3,2154,UPI,Delivered
+102,563,51,2024-09-08,5,12255,Card,Delivered
+103,438,47,2024-02-14,1,4228,Cash on Delivery,Returned
+104,27,26,2024-04-15,1,4209,Card,Cancelled
+105,865,11,2024-02-29,4,4568,Cash on Delivery,Returned
+106,917,61,2024-12-04,4,1856,Cash on Delivery,Delivered
+107,397,83,2024-04-04,5,1100,Cash on Delivery,Returned
+108,457,48,2024-01-23,2,7672,Cash on Delivery,Returned
+109,232,60,2024-05-17,3,6681,UPI,Shipped
+110,88,97,2024-12-08,1,2444,Cash on Delivery,Returned
+111,233,97,2024-10-10,5,12220,UPI,Returned
+112,989,67,2024-10-01,4,7580,Net Banking,Shipped
+113,81,61,2024-07-21,3,1392,UPI,Shipped
+114,178,16,2024-03-26,4,15940,Card,Shipped
+115,434,17,2024-02-10,1,3518,Net Banking,Shipped
+116,855,81,2024-10-31,2,4958,Cash on Delivery,Cancelled
+117,90,94,2024-07-17,1,3939,Net Banking,Cancelled
+118,470,36,2024-01-07,5,18130,Net Banking,Delivered
+119,152,54,2024-10-17,2,8514,UPI,Delivered
+120,805,73,2024-05-26,1,3571,Cash on Delivery,Returned
+121,671,34,2024-09-05,4,4632,Net Banking,Delivered
+122,413,23,2024-03-14,3,13794,Net Banking,Delivered
+123,708,51,2024-05-01,3,7353,UPI,Returned
+124,21,35,2024-06-21,3,4074,Cash on Delivery,Cancelled
+125,879,36,2024-12-22,4,14504,UPI,Shipped
+126,998,18,2024-08-14,3,11220,Cash on Delivery,Cancelled
+127,620,94,2024-11-26,4,15756,UPI,Shipped
+128,936,57,2024-07-27,2,6410,Net Banking,Cancelled
+129,811,8,2024-03-22,5,15265,UPI,Cancelled
+130,414,91,2024-03-10,5,15075,UPI,Shipped
+131,858,25,2024-01-30,2,2266,Card,Delivered
+132,941,59,2024-07-03,1,1990,Card,Cancelled
+133,518,48,2024-07-22,4,15344,UPI,Delivered
+134,501,31,2024-10-31,3,7908,Net Banking,Shipped
+135,565,61,2024-06-28,5,2320,Cash on Delivery,Shipped
+136,292,34,2024-01-15,1,1158,Net Banking,Delivered
+137,799,21,2024-04-19,5,9795,Card,Shipped
+138,276,87,2024-11-29,2,3870,Net Banking,Delivered
+139,486,100,2024-03-08,1,3446,Card,Delivered
+140,623,29,2024-06-05,3,9150,Cash on Delivery,Returned
+141,471,49,2024-05-09,3,2631,Card,Returned
+142,845,39,2024-11-15,5,23010,Net Banking,Delivered
+143,679,1,2024-07-10,5,21495,Cash on Delivery,Cancelled
+144,494,88,2024-02-02,1,2844,Cash on Delivery,Cancelled
+145,883,82,2024-05-21,3,12594,Cash on Delivery,Cancelled
+146,530,25,2024-05-03,2,2266,UPI,Returned
+147,698,85,2024-03-12,3,2154,UPI,Returned
+148,929,38,2024-08-02,3,5163,Net Banking,Returned
+149,598,95,2024-12-28,1,1857,Card,Cancelled
+150,703,93,2024-09-30,2,2434,Net Banking,Cancelled
+151,866,65,2024-03-28,3,11121,Card,Cancelled
+152,132,13,2024-05-12,4,6184,Card,Cancelled
+153,228,84,2024-06-30,1,3955,Card,Cancelled
+154,381,54,2024-05-13,3,12771,Cash on Delivery,Returned
+155,55,16,2024-11-20,4,15940,UPI,Returned
+156,123,25,2024-12-14,5,5665,Net Banking,Cancelled
+157,892,53,2024-03-18,1,3946,Card,Shipped
+158,584,44,2024-08-22,4,5272,Card,Cancelled
+159,798,92,2024-02-11,2,2030,Net Banking,Cancelled
+160,321,81,2024-11-20,2,4958,UPI,Delivered
+161,215,58,2024-03-27,3,1620,Card,Returned
+162,133,98,2024-11-10,1,3152,Net Banking,Returned
+163,989,52,2024-09-01,4,10256,Net Banking,Delivered
+164,205,5,2024-07-10,5,6800,UPI,Cancelled
+165,196,97,2024-01-10,5,12220,UPI,Shipped
+166,320,29,2024-03-07,3,9150,UPI,Returned
+167,314,65,2024-03-26,5,18535,UPI,Delivered
+168,467,39,2024-09-23,3,13806,Cash on Delivery,Returned
+169,351,88,2024-09-07,2,5688,Cash on Delivery,Shipped
+170,20,22,2024-04-26,4,2848,Card,Shipped
+171,604,28,2024-09-15,1,3415,Card,Delivered
+172,385,47,2024-11-23,1,4228,Cash on Delivery,Delivered
+173,678,77,2024-02-25,1,1364,UPI,Delivered
+174,427,89,2024-08-15,1,4683,Net Banking,Delivered
+175,486,71,2024-12-25,3,7170,Card,Shipped
+176,309,89,2024-08-03,1,4683,UPI,Cancelled
+177,718,80,2024-03-11,5,4810,Net Banking,Delivered
+178,121,66,2024-05-24,5,6700,UPI,Delivered
+179,624,64,2024-04-12,2,6144,Cash on Delivery,Shipped
+180,303,46,2024-03-23,4,17016,UPI,Returned
+181,339,27,2024-04-30,4,11068,UPI,Delivered
+182,929,86,2024-02-26,1,1984,Net Banking,Shipped
+183,77,12,2024-02-21,5,15050,Cash on Delivery,Shipped
+184,271,59,2024-08-25,3,5970,UPI,Delivered
+185,873,23,2024-05-28,1,4598,Cash on Delivery,Cancelled
+186,98,55,2024-01-24,1,1127,UPI,Shipped
+187,337,85,2024-07-02,2,1436,Net Banking,Cancelled
+188,382,94,2024-06-24,1,3939,Card,Delivered
+189,986,52,2024-08-21,4,10256,Cash on Delivery,Returned
+190,820,89,2024-08-03,4,18732,Card,Delivered
+191,966,17,2024-03-22,1,3518,UPI,Returned
+192,822,76,2024-10-18,4,8908,Net Banking,Shipped
+193,798,79,2024-07-02,4,15608,UPI,Shipped
+194,116,62,2024-07-29,4,12220,Net Banking,Delivered
+195,671,9,2024-06-09,3,11367,UPI,Shipped
+196,532,86,2024-09-24,3,5952,UPI,Returned
+197,494,85,2024-06-26,2,1436,Net Banking,Shipped
+198,56,72,2024-01-06,5,4900,Card,Returned
+199,77,64,2024-09-08,2,6144,Cash on Delivery,Shipped
+200,52,43,2024-09-16,3,9423,Card,Returned
+201,81,52,2024-08-23,2,5128,Net Banking,Returned
+202,458,12,2024-06-10,4,12040,UPI,Returned
+203,106,96,2024-07-25,1,2672,Net Banking,Delivered
+204,1,72,2024-02-16,5,4900,Cash on Delivery,Shipped
+205,974,84,2024-06-23,4,15820,Cash on Delivery,Delivered
+206,340,29,2024-10-13,4,12200,Net Banking,Cancelled
+207,117,92,2024-02-19,4,4060,Card,Delivered
+208,850,44,2024-11-20,3,3954,Cash on Delivery,Cancelled
+209,47,90,2024-03-25,1,4837,Net Banking,Shipped
+210,110,92,2024-05-10,4,4060,Card,Shipped
+211,221,16,2024-08-22,4,15940,Card,Cancelled
+212,48,14,2024-11-20,4,6516,UPI,Returned
+213,980,59,2024-09-15,5,9950,Card,Returned
+214,754,1,2024-01-25,5,21495,Net Banking,Returned
+215,709,66,2024-10-23,2,2680,Card,Shipped
+216,674,14,2024-11-03,4,6516,Cash on Delivery,Returned
+217,938,54,2024-12-20,5,21285,Card,Cancelled
+218,994,51,2024-05-30,3,7353,Net Banking,Shipped
+219,617,18,2024-12-24,4,14960,Cash on Delivery,Cancelled
+220,648,92,2024-04-21,5,5075,Card,Shipped
+221,704,80,2024-06-25,3,2886,Card,Shipped
+222,711,65,2024-11-22,5,18535,Cash on Delivery,Delivered
+223,576,98,2024-09-02,3,9456,Net Banking,Cancelled
+224,536,55,2024-02-24,1,1127,UPI,Returned
+225,687,19,2024-01-29,1,1816,Card,Cancelled
+226,294,97,2024-12-15,2,4888,Cash on Delivery,Shipped
+227,209,8,2024-10-04,3,9159,UPI,Cancelled
+228,631,58,2024-12-11,1,540,Card,Returned
+229,804,31,2024-12-22,5,13180,Cash on Delivery,Delivered
+230,427,49,2024-12-16,4,3508,Cash on Delivery,Delivered
+231,208,2,2024-11-13,3,1203,Net Banking,Shipped
+232,774,82,2024-10-28,3,12594,Card,Shipped
+233,182,38,2024-12-15,4,6884,UPI,Shipped
+234,123,23,2024-07-12,5,22990,UPI,Returned
+235,271,36,2024-03-07,5,18130,Card,Cancelled
+236,478,1,2024-12-29,3,12897,Card,Delivered
+237,612,20,2024-01-27,3,11154,Cash on Delivery,Returned
+238,367,74,2024-02-07,5,6195,Cash on Delivery,Shipped
+239,70,24,2024-09-15,5,14350,Card,Returned
+240,414,70,2024-02-17,5,12985,Cash on Delivery,Shipped
+241,340,28,2024-07-03,3,10245,Cash on Delivery,Shipped
+242,544,97,2024-08-31,5,12220,UPI,Delivered
+243,457,86,2024-05-03,3,5952,Card,Delivered
+244,391,88,2024-02-28,3,8532,Net Banking,Cancelled
+245,26,70,2024-09-21,3,7791,Cash on Delivery,Returned
+246,304,63,2024-11-29,1,1161,Card,Cancelled
+247,971,66,2024-02-19,1,1340,Card,Delivered
+248,216,81,2024-12-09,1,2479,Card,Returned
+249,551,14,2024-12-25,2,3258,Net Banking,Delivered
+250,25,96,2024-08-23,2,5344,Cash on Delivery,Delivered
+251,56,12,2024-04-01,1,3010,Cash on Delivery,Delivered
+252,933,74,2024-05-12,2,2478,Net Banking,Returned
+253,444,58,2024-06-10,4,2160,UPI,Returned
+254,548,87,2024-01-04,1,1935,UPI,Delivered
+255,367,90,2024-09-14,1,4837,UPI,Cancelled
+256,622,88,2024-02-14,3,8532,Cash on Delivery,Returned
+257,842,49,2024-12-04,4,3508,UPI,Returned
+258,226,21,2024-03-10,5,9795,Net Banking,Cancelled
+259,306,82,2024-12-12,2,8396,Cash on Delivery,Delivered
+260,145,71,2024-03-04,5,11950,UPI,Delivered
+261,404,74,2024-10-02,5,6195,UPI,Cancelled
+262,217,27,2024-07-30,3,8301,Card,Shipped
+263,632,24,2024-05-09,2,5740,Card,Delivered
+264,873,24,2024-01-28,5,14350,Net Banking,Delivered
+265,257,38,2024-02-20,1,1721,Card,Returned
+266,132,43,2024-12-09,3,9423,Card,Delivered
+267,72,37,2024-04-09,5,24540,Cash on Delivery,Returned
+268,632,58,2024-12-03,3,1620,Cash on Delivery,Shipped
+269,374,73,2024-06-10,5,17855,Net Banking,Shipped
+270,253,1,2024-04-23,3,12897,Net Banking,Cancelled
+271,696,47,2024-06-18,2,8456,Net Banking,Returned
+272,794,58,2024-06-05,3,1620,Net Banking,Delivered
+273,84,23,2024-05-23,5,22990,Card,Shipped
+274,745,34,2024-02-08,1,1158,UPI,Delivered
+275,415,75,2024-10-29,5,6990,Card,Delivered
+276,557,71,2024-10-03,3,7170,Net Banking,Shipped
+277,229,47,2024-10-28,4,16912,Cash on Delivery,Shipped
+278,523,60,2024-02-16,5,11135,Net Banking,Cancelled
+279,679,65,2024-05-02,1,3707,Card,Shipped
+280,184,58,2024-10-16,2,1080,Card,Returned
+281,225,46,2024-09-06,1,4254,Card,Delivered
+282,240,34,2024-01-22,3,3474,Card,Cancelled
+283,940,50,2024-08-20,4,8024,UPI,Delivered
+284,106,84,2024-12-26,3,11865,Cash on Delivery,Cancelled
+285,584,75,2024-03-30,5,6990,Net Banking,Returned
+286,670,47,2024-02-09,5,21140,Cash on Delivery,Returned
+287,416,29,2024-06-29,5,15250,Cash on Delivery,Returned
+288,7,62,2024-09-13,5,15275,Card,Returned
+289,79,22,2024-09-20,2,1424,Cash on Delivery,Shipped
+290,162,20,2024-07-04,2,7436,UPI,Shipped
+291,738,54,2024-02-28,3,12771,Net Banking,Returned
+292,605,62,2024-03-23,2,6110,Net Banking,Delivered
+293,131,32,2024-10-20,1,894,Card,Shipped
+294,41,81,2024-10-20,5,12395,Card,Delivered
+295,945,22,2024-04-02,3,2136,Net Banking,Delivered
+296,970,93,2024-02-13,3,3651,Card,Returned
+297,889,78,2024-09-03,4,9604,Card,Shipped
+298,147,53,2024-10-25,5,19730,Card,Cancelled
+299,945,22,2024-08-20,3,2136,UPI,Shipped
+300,136,49,2024-02-25,4,3508,UPI,Shipped
+301,701,67,2024-08-02,5,9475,Card,Delivered
+302,924,23,2024-11-10,4,18392,UPI,Delivered
+303,676,12,2024-03-07,4,12040,UPI,Returned
+304,380,67,2024-01-23,4,7580,Net Banking,Shipped
+305,359,62,2024-10-28,4,12220,UPI,Returned
+306,489,18,2024-04-29,3,11220,UPI,Cancelled
+307,419,77,2024-05-11,5,6820,Card,Delivered
+308,592,91,2024-09-24,1,3015,UPI,Delivered
+309,705,49,2024-06-10,2,1754,Net Banking,Cancelled
+310,437,14,2024-11-29,2,3258,Cash on Delivery,Cancelled
+311,579,69,2024-07-06,4,18452,Cash on Delivery,Returned
+312,424,97,2024-10-09,2,4888,Net Banking,Shipped
+313,569,48,2024-09-04,5,19180,Cash on Delivery,Cancelled
+314,793,74,2024-12-27,3,3717,Net Banking,Shipped
+315,766,85,2024-04-27,1,718,Net Banking,Shipped
+316,521,13,2024-07-24,2,3092,Cash on Delivery,Delivered
+317,988,21,2024-11-21,4,7836,UPI,Delivered
+318,949,19,2024-11-03,4,7264,Net Banking,Delivered
+319,228,9,2024-07-08,3,11367,UPI,Delivered
+320,954,93,2024-07-24,4,4868,Cash on Delivery,Delivered
+321,656,100,2024-09-10,2,6892,Net Banking,Delivered
+322,293,26,2024-04-09,5,21045,UPI,Shipped
+323,691,79,2024-01-19,2,7804,Cash on Delivery,Shipped
+324,1000,84,2024-03-21,1,3955,UPI,Cancelled
+325,362,100,2024-12-08,4,13784,Net Banking,Returned
+326,531,76,2024-01-08,2,4454,UPI,Delivered
+327,744,71,2024-10-13,3,7170,Cash on Delivery,Cancelled
+328,621,36,2024-04-09,2,7252,Net Banking,Returned
+329,268,74,2024-03-30,1,1239,Net Banking,Delivered
+330,516,72,2024-05-30,1,980,Cash on Delivery,Delivered
+331,898,66,2024-10-02,3,4020,Cash on Delivery,Returned
+332,496,49,2024-05-04,5,4385,Cash on Delivery,Returned
+333,919,88,2024-10-27,4,11376,UPI,Returned
+334,70,15,2024-07-14,3,8733,Card,Shipped
+335,979,41,2024-06-29,4,5396,UPI,Cancelled
+336,96,32,2024-07-23,3,2682,Cash on Delivery,Delivered
+337,488,71,2024-06-09,2,4780,Cash on Delivery,Shipped
+338,188,74,2024-12-15,3,3717,Card,Returned
+339,241,95,2024-05-03,2,3714,Cash on Delivery,Shipped
+340,855,30,2024-05-07,2,7900,Cash on Delivery,Shipped
+341,123,100,2024-02-10,1,3446,Net Banking,Delivered
+342,981,98,2024-01-22,5,15760,Net Banking,Cancelled
+343,505,80,2024-10-21,3,2886,Cash on Delivery,Returned
+344,287,24,2024-07-22,5,14350,Card,Shipped
+345,819,7,2024-08-04,5,9470,Net Banking,Delivered
+346,404,65,2024-12-17,3,11121,Card,Returned
+347,472,16,2024-06-10,5,19925,UPI,Delivered
+348,389,87,2024-10-24,2,3870,UPI,Cancelled
+349,883,47,2024-05-12,5,21140,Card,Cancelled
+350,483,31,2024-11-09,3,7908,Cash on Delivery,Cancelled
+351,435,24,2024-04-17,4,11480,Net Banking,Cancelled
+352,287,47,2024-08-18,4,16912,Card,Shipped
+353,834,74,2024-02-21,2,2478,Cash on Delivery,Shipped
+354,877,72,2024-07-14,4,3920,Card,Shipped
+355,485,95,2024-01-05,2,3714,Card,Returned
+356,915,64,2024-11-18,2,6144,Cash on Delivery,Returned
+357,576,39,2024-10-17,3,13806,UPI,Returned
+358,62,13,2024-04-20,2,3092,Cash on Delivery,Returned
+359,461,81,2024-06-20,1,2479,Cash on Delivery,Cancelled
+360,571,47,2024-05-11,5,21140,Cash on Delivery,Delivered
+361,360,53,2024-12-13,1,3946,Card,Shipped
+362,364,100,2024-06-15,3,10338,Net Banking,Returned
+363,629,11,2024-05-26,4,4568,Net Banking,Shipped
+364,432,22,2024-11-19,3,2136,Net Banking,Delivered
+365,352,11,2024-04-26,2,2284,Cash on Delivery,Cancelled
+366,728,84,2024-05-16,3,11865,Net Banking,Cancelled
+367,766,57,2024-10-27,3,9615,Net Banking,Returned
+368,875,22,2024-01-12,2,1424,Card,Shipped
+369,964,85,2024-12-24,3,2154,UPI,Shipped
+370,106,22,2024-02-18,4,2848,UPI,Returned
+371,27,71,2024-07-22,1,2390,UPI,Delivered
+372,160,34,2024-02-13,5,5790,Net Banking,Cancelled
+373,756,30,2024-05-25,2,7900,Net Banking,Shipped
+374,859,17,2024-03-28,5,17590,UPI,Delivered
+375,882,85,2024-06-15,3,2154,Net Banking,Returned
+376,562,70,2024-08-15,3,7791,Card,Shipped
+377,468,76,2024-11-19,5,11135,Net Banking,Cancelled
+378,553,45,2024-04-26,4,13380,UPI,Returned
+379,423,40,2024-05-13,3,4698,Card,Cancelled
+380,536,2,2024-03-10,1,401,Cash on Delivery,Cancelled
+381,9,61,2024-12-18,5,2320,Net Banking,Returned
+382,785,39,2024-08-08,1,4602,Cash on Delivery,Shipped
+383,383,1,2024-04-06,5,21495,Net Banking,Returned
+384,168,51,2024-11-26,2,4902,Net Banking,Returned
+385,82,29,2024-08-04,3,9150,Card,Cancelled
+386,829,37,2024-05-17,5,24540,Net Banking,Shipped
+387,140,9,2024-05-28,2,7578,UPI,Returned
+388,279,80,2024-12-24,4,3848,Net Banking,Shipped
+389,156,42,2024-01-26,1,3894,UPI,Shipped
+390,276,14,2024-03-05,3,4887,Net Banking,Delivered
+391,155,30,2024-01-08,1,3950,Net Banking,Shipped
+392,320,44,2024-09-12,4,5272,Cash on Delivery,Returned
+393,339,90,2024-02-11,1,4837,Card,Delivered
+394,74,35,2024-10-05,4,5432,Net Banking,Shipped
+395,837,25,2024-07-14,3,3399,UPI,Delivered
+396,395,99,2024-08-14,2,6492,Card,Delivered
+397,753,26,2024-02-18,4,16836,Card,Returned
+398,959,50,2024-06-14,3,6018,Card,Delivered
+399,534,96,2024-03-03,5,13360,Cash on Delivery,Returned
+400,204,82,2024-07-03,3,12594,UPI,Shipped
+401,649,15,2024-08-10,2,5822,Cash on Delivery,Delivered
+402,599,22,2024-03-02,3,2136,Net Banking,Shipped
+403,596,2,2024-12-19,1,401,Net Banking,Shipped
+404,255,48,2024-03-21,1,3836,Net Banking,Delivered
+405,347,88,2024-11-16,5,14220,UPI,Delivered
+406,719,46,2024-10-01,2,8508,UPI,Shipped
+407,325,63,2024-10-12,2,2322,Cash on Delivery,Returned
+408,22,94,2024-12-18,2,7878,Net Banking,Cancelled
+409,257,93,2024-01-21,2,2434,Net Banking,Returned
+410,556,72,2024-12-22,3,2940,Net Banking,Shipped
+411,557,73,2024-06-27,2,7142,Cash on Delivery,Returned
+412,937,36,2024-10-10,5,18130,Card,Delivered
+413,461,68,2024-05-31,2,6146,Cash on Delivery,Cancelled
+414,795,59,2024-11-22,1,1990,Net Banking,Shipped
+415,878,3,2024-07-05,5,13100,Card,Cancelled
+416,675,93,2024-10-02,1,1217,Net Banking,Shipped
+417,785,68,2024-10-09,4,12292,Card,Cancelled
+418,657,42,2024-06-13,4,15576,UPI,Delivered
+419,45,67,2024-03-07,1,1895,Card,Delivered
+420,498,26,2024-04-08,1,4209,UPI,Delivered
+421,674,74,2024-09-07,4,4956,Cash on Delivery,Delivered
+422,621,47,2024-02-06,2,8456,UPI,Shipped
+423,951,84,2024-02-10,4,15820,Net Banking,Delivered
+424,762,47,2024-07-31,5,21140,Cash on Delivery,Delivered
+425,542,79,2024-01-21,3,11706,UPI,Cancelled
+426,984,10,2024-09-22,2,1500,UPI,Delivered
+427,545,93,2024-07-16,2,2434,Card,Shipped
+428,584,68,2024-11-16,2,6146,Card,Returned
+429,785,96,2024-11-22,1,2672,Cash on Delivery,Returned
+430,905,90,2024-02-23,4,19348,Card,Shipped
+431,517,71,2024-06-21,4,9560,Card,Returned
+432,564,46,2024-06-15,3,12762,Cash on Delivery,Returned
+433,846,98,2024-06-14,4,12608,Card,Shipped
+434,949,49,2024-05-10,5,4385,Cash on Delivery,Returned
+435,1,58,2024-01-18,4,2160,Cash on Delivery,Delivered
+436,912,67,2024-06-03,2,3790,UPI,Cancelled
+437,877,29,2024-06-10,2,6100,UPI,Cancelled
+438,570,71,2024-10-19,5,11950,Card,Delivered
+439,365,5,2024-03-20,4,5440,Card,Cancelled
+440,256,47,2024-04-29,5,21140,Cash on Delivery,Cancelled
+441,410,12,2024-10-18,5,15050,Card,Delivered
+442,812,93,2024-09-04,3,3651,Card,Returned
+443,840,89,2024-02-18,5,23415,Cash on Delivery,Delivered
+444,391,94,2024-02-10,5,19695,UPI,Cancelled
+445,427,45,2024-03-02,4,13380,Card,Delivered
+446,56,82,2024-06-05,4,16792,UPI,Cancelled
+447,154,70,2024-06-16,5,12985,Card,Shipped
+448,995,7,2024-08-16,4,7576,UPI,Shipped
+449,806,56,2024-07-20,3,7182,Card,Shipped
+450,488,44,2024-10-19,1,1318,UPI,Returned
+451,409,34,2024-09-13,1,1158,Net Banking,Shipped
+452,493,98,2024-10-13,2,6304,Card,Returned
+453,201,51,2024-10-14,5,12255,Card,Shipped
+454,796,10,2024-08-08,3,2250,Cash on Delivery,Delivered
+455,434,15,2024-07-06,4,11644,Cash on Delivery,Shipped
+456,609,42,2024-12-01,3,11682,UPI,Cancelled
+457,632,22,2024-08-14,3,2136,Card,Returned
+458,205,6,2024-12-16,2,6020,Cash on Delivery,Shipped
+459,116,97,2024-01-28,1,2444,Card,Shipped
+460,352,37,2024-12-21,1,4908,UPI,Cancelled
+461,24,58,2024-06-18,4,2160,Card,Shipped
+462,536,27,2024-05-12,5,13835,Net Banking,Shipped
+463,386,89,2024-10-25,1,4683,UPI,Cancelled
+464,291,22,2024-04-12,1,712,Cash on Delivery,Delivered
+465,69,60,2024-07-17,1,2227,Cash on Delivery,Cancelled
+466,300,14,2024-11-28,1,1629,Net Banking,Shipped
+467,727,49,2024-02-20,5,4385,Cash on Delivery,Returned
+468,91,77,2024-04-05,5,6820,Card,Returned
+469,41,72,2024-05-06,1,980,Cash on Delivery,Cancelled
+470,763,63,2024-03-21,4,4644,UPI,Cancelled
+471,364,88,2024-11-16,3,8532,Cash on Delivery,Shipped
+472,832,65,2024-02-01,3,11121,Cash on Delivery,Returned
+473,972,4,2024-05-23,5,4515,Card,Shipped
+474,673,44,2024-03-11,4,5272,UPI,Returned
+475,894,67,2024-11-16,5,9475,Card,Returned
+476,157,31,2024-08-06,5,13180,Cash on Delivery,Cancelled
+477,135,58,2024-04-15,5,2700,Card,Shipped
+478,706,18,2024-12-27,3,11220,Card,Returned
+479,672,99,2024-10-16,2,6492,Card,Cancelled
+480,546,9,2024-03-01,5,18945,Card,Cancelled
+481,784,19,2024-06-12,1,1816,Net Banking,Returned
+482,764,39,2024-11-22,4,18408,Cash on Delivery,Shipped
+483,110,100,2024-03-08,2,6892,Card,Delivered
+484,632,98,2024-05-16,5,15760,Card,Shipped
+485,368,30,2024-02-10,1,3950,Net Banking,Shipped
+486,481,65,2024-12-30,5,18535,Cash on Delivery,Shipped
+487,486,50,2024-03-11,4,8024,Card,Shipped
+488,419,29,2024-01-08,1,3050,Cash on Delivery,Returned
+489,776,29,2024-04-14,2,6100,UPI,Shipped
+490,502,57,2024-12-18,5,16025,Cash on Delivery,Returned
+491,415,32,2024-01-22,4,3576,Net Banking,Cancelled
+492,962,51,2024-10-19,5,12255,UPI,Delivered
+493,847,58,2024-01-22,4,2160,Card,Returned
+494,572,95,2024-07-17,1,1857,UPI,Shipped
+495,408,38,2024-06-04,4,6884,Cash on Delivery,Returned
+496,302,22,2024-11-09,4,2848,UPI,Shipped
+497,93,60,2024-09-13,4,8908,UPI,Shipped
+498,961,100,2024-12-22,5,17230,Card,Returned
+499,462,53,2024-01-13,3,11838,Card,Returned
+500,904,76,2024-08-20,2,4454,UPI,Cancelled
+501,736,42,2024-03-04,2,7788,UPI,Delivered
+502,650,91,2024-07-04,4,12060,UPI,Returned
+503,627,94,2024-03-22,5,19695,Net Banking,Returned
+504,935,6,2024-06-20,2,6020,Card,Shipped
+505,788,19,2024-12-30,2,3632,UPI,Returned
+506,748,40,2024-08-16,3,4698,Cash on Delivery,Shipped
+507,984,16,2024-04-13,2,7970,UPI,Cancelled
+508,510,2,2024-09-12,4,1604,UPI,Returned
+509,603,31,2024-12-03,2,5272,Net Banking,Returned
+510,82,53,2024-11-03,4,15784,UPI,Shipped
+511,635,71,2024-11-17,3,7170,Card,Delivered
+512,57,24,2024-11-30,2,5740,Cash on Delivery,Delivered
+513,684,19,2024-10-22,1,1816,Cash on Delivery,Cancelled
+514,112,12,2024-08-01,1,3010,Card,Shipped
+515,626,87,2024-12-04,3,5805,Card,Returned
+516,369,96,2024-01-19,5,13360,UPI,Cancelled
+517,920,42,2024-07-13,3,11682,UPI,Returned
+518,300,71,2024-08-29,1,2390,Card,Delivered
+519,338,89,2024-09-26,3,14049,Net Banking,Shipped
+520,627,90,2024-01-30,2,9674,UPI,Delivered
+521,957,62,2024-12-27,5,15275,Cash on Delivery,Returned
+522,266,78,2024-09-26,3,7203,Cash on Delivery,Shipped
+523,509,79,2024-09-23,5,19510,Net Banking,Returned
+524,239,24,2024-12-28,5,14350,Cash on Delivery,Shipped
+525,25,1,2024-08-26,1,4299,UPI,Shipped
+526,424,79,2024-01-24,4,15608,Cash on Delivery,Cancelled
+527,12,72,2024-11-23,2,1960,Card,Cancelled
+528,316,33,2024-06-02,1,1165,Cash on Delivery,Delivered
+529,350,15,2024-07-21,3,8733,UPI,Shipped
+530,854,25,2024-06-22,3,3399,Net Banking,Returned
+531,494,5,2024-03-20,2,2720,Net Banking,Cancelled
+532,951,60,2024-01-29,4,8908,Cash on Delivery,Cancelled
+533,20,72,2024-04-16,5,4900,Cash on Delivery,Cancelled
+534,288,9,2024-01-16,2,7578,Cash on Delivery,Returned
+535,863,81,2024-03-25,5,12395,Net Banking,Shipped
+536,886,77,2024-06-06,1,1364,Cash on Delivery,Delivered
+537,89,35,2024-09-11,4,5432,Card,Cancelled
+538,222,58,2024-09-25,3,1620,Cash on Delivery,Shipped
+539,804,15,2024-01-20,3,8733,Card,Delivered
+540,26,57,2024-09-04,5,16025,Card,Shipped
+541,751,44,2024-09-25,4,5272,Cash on Delivery,Cancelled
+542,842,19,2024-09-21,1,1816,Card,Shipped
+543,471,93,2024-07-17,1,1217,UPI,Delivered
+544,704,40,2024-10-31,1,1566,UPI,Cancelled
+545,106,60,2024-09-23,1,2227,Cash on Delivery,Delivered
+546,655,74,2024-04-17,3,3717,Cash on Delivery,Shipped
+547,284,25,2024-09-29,3,3399,Cash on Delivery,Returned
+548,280,86,2024-03-17,1,1984,Card,Cancelled
+549,982,15,2024-11-14,1,2911,UPI,Shipped
+550,563,70,2024-06-12,3,7791,Cash on Delivery,Shipped
+551,588,91,2024-05-05,3,9045,Card,Delivered
+552,914,40,2024-06-22,5,7830,Net Banking,Delivered
+553,483,17,2024-12-11,1,3518,UPI,Delivered
+554,89,50,2024-08-06,1,2006,Net Banking,Shipped
+555,913,91,2024-10-30,5,15075,Net Banking,Cancelled
+556,838,40,2024-04-11,3,4698,UPI,Returned
+557,96,73,2024-12-23,2,7142,Net Banking,Delivered
+558,701,59,2024-11-25,3,5970,Net Banking,Returned
+559,148,30,2024-11-11,2,7900,Cash on Delivery,Cancelled
+560,717,51,2024-12-06,2,4902,Cash on Delivery,Cancelled
+561,31,59,2024-02-03,4,7960,Net Banking,Delivered
+562,473,45,2024-03-28,4,13380,Cash on Delivery,Cancelled
+563,131,78,2024-09-17,5,12005,UPI,Returned
+564,334,92,2024-10-11,1,1015,UPI,Cancelled
+565,411,69,2024-10-29,4,18452,Net Banking,Shipped
+566,562,80,2024-03-22,2,1924,Net Banking,Returned
+567,214,9,2024-12-21,3,11367,Net Banking,Returned
+568,558,73,2024-12-21,3,10713,Card,Shipped
+569,758,85,2024-12-30,1,718,Net Banking,Delivered
+570,475,76,2024-06-15,5,11135,UPI,Returned
+571,979,23,2024-07-26,3,13794,UPI,Delivered
+572,790,88,2024-07-13,5,14220,Cash on Delivery,Returned
+573,93,83,2024-04-21,1,220,Card,Delivered
+574,677,97,2024-03-17,2,4888,Net Banking,Cancelled
+575,592,50,2024-08-16,5,10030,Card,Shipped
+576,307,88,2024-10-18,3,8532,Cash on Delivery,Returned
+577,92,92,2024-10-25,3,3045,UPI,Returned
+578,64,17,2024-07-08,3,10554,UPI,Delivered
+579,841,91,2024-07-02,5,15075,UPI,Cancelled
+580,443,4,2024-12-25,2,1806,Net Banking,Cancelled
+581,416,92,2024-07-14,4,4060,Net Banking,Shipped
+582,487,85,2024-03-12,2,1436,Card,Returned
+583,158,47,2024-05-27,4,16912,Card,Shipped
+584,664,2,2024-01-09,1,401,Card,Returned
+585,999,85,2024-03-10,4,2872,UPI,Shipped
+586,881,83,2024-08-21,4,880,Net Banking,Shipped
+587,435,59,2024-10-09,5,9950,Net Banking,Returned
+588,191,46,2024-08-05,2,8508,UPI,Returned
+589,730,94,2024-09-13,2,7878,Cash on Delivery,Returned
+590,376,70,2024-01-18,5,12985,UPI,Returned
+591,116,91,2024-10-24,3,9045,Net Banking,Delivered
+592,880,19,2024-05-23,5,9080,Net Banking,Delivered
+593,91,67,2024-05-05,5,9475,Net Banking,Delivered
+594,818,88,2024-10-23,5,14220,Cash on Delivery,Delivered
+595,798,44,2024-01-06,5,6590,Net Banking,Returned
+596,588,66,2024-06-18,4,5360,Net Banking,Cancelled
+597,172,38,2024-01-19,3,5163,Cash on Delivery,Cancelled
+598,593,8,2024-03-27,4,12212,UPI,Cancelled
+599,28,95,2024-05-26,5,9285,Net Banking,Delivered
+600,79,17,2024-05-22,5,17590,Cash on Delivery,Shipped
+601,282,79,2024-05-11,3,11706,UPI,Delivered
+602,932,78,2024-10-29,2,4802,Card,Returned
+603,268,48,2024-12-24,2,7672,Card,Returned
+604,883,24,2024-01-17,5,14350,Cash on Delivery,Delivered
+605,957,19,2024-03-19,5,9080,Net Banking,Returned
+606,244,99,2024-12-04,4,12984,Net Banking,Shipped
+607,752,27,2024-06-25,5,13835,UPI,Cancelled
+608,54,97,2024-03-26,1,2444,Net Banking,Returned
+609,488,61,2024-09-29,3,1392,Card,Returned
+610,486,88,2024-05-14,4,11376,Card,Returned
+611,950,2,2024-08-17,3,1203,Net Banking,Cancelled
+612,100,68,2024-09-29,1,3073,Cash on Delivery,Returned
+613,344,79,2024-05-18,3,11706,Cash on Delivery,Delivered
+614,401,33,2024-08-24,5,5825,Card,Shipped
+615,694,67,2024-12-19,3,5685,Card,Cancelled
+616,689,71,2024-01-05,1,2390,UPI,Delivered
+617,538,53,2024-02-23,1,3946,Net Banking,Cancelled
+618,258,29,2024-04-08,3,9150,UPI,Delivered
+619,59,80,2024-10-31,1,962,Card,Delivered
+620,89,91,2024-11-05,1,3015,Card,Returned
+621,823,85,2024-04-04,5,3590,UPI,Shipped
+622,479,33,2024-12-04,3,3495,UPI,Returned
+623,709,36,2024-12-07,4,14504,Cash on Delivery,Cancelled
+624,284,21,2024-02-01,1,1959,Net Banking,Returned
+625,265,43,2024-05-15,1,3141,Card,Returned
+626,951,9,2024-04-12,4,15156,Net Banking,Shipped
+627,112,83,2024-03-14,4,880,Net Banking,Shipped
+628,935,79,2024-08-14,1,3902,Cash on Delivery,Delivered
+629,73,5,2024-10-19,1,1360,Cash on Delivery,Returned
+630,153,3,2024-11-30,4,10480,UPI,Delivered
+631,273,86,2024-03-18,4,7936,Cash on Delivery,Returned
+632,528,74,2024-12-28,1,1239,Net Banking,Returned
+633,865,56,2024-02-05,4,9576,Card,Delivered
+634,125,50,2024-10-17,4,8024,Cash on Delivery,Cancelled
+635,411,88,2024-01-29,3,8532,UPI,Cancelled
+636,83,69,2024-08-23,3,13839,Cash on Delivery,Shipped
+637,41,23,2024-07-15,5,22990,Card,Cancelled
+638,918,90,2024-02-24,4,19348,Cash on Delivery,Returned
+639,753,11,2024-04-07,4,4568,Card,Delivered
+640,738,25,2024-10-30,1,1133,Card,Returned
+641,812,50,2024-10-03,1,2006,Cash on Delivery,Returned
+642,990,69,2024-01-09,4,18452,UPI,Cancelled
+643,807,8,2024-01-22,3,9159,Net Banking,Delivered
+644,470,28,2024-12-13,5,17075,Card,Shipped
+645,754,10,2024-03-13,1,750,Net Banking,Delivered
+646,47,61,2024-05-04,5,2320,Card,Delivered
+647,927,23,2024-06-06,1,4598,UPI,Returned
+648,856,79,2024-10-29,2,7804,UPI,Delivered
+649,610,15,2024-11-11,4,11644,Card,Delivered
+650,346,26,2024-12-13,4,16836,Net Banking,Cancelled
+651,559,16,2024-03-11,5,19925,Cash on Delivery,Shipped
+652,608,98,2024-03-29,1,3152,Cash on Delivery,Delivered
+653,145,16,2024-07-31,3,11955,Card,Cancelled
+654,450,71,2024-05-04,2,4780,UPI,Shipped
+655,386,13,2024-03-21,5,7730,UPI,Returned
+656,8,11,2024-04-01,1,1142,UPI,Cancelled
+657,709,54,2024-03-05,4,17028,Card,Shipped
+658,536,82,2024-08-18,3,12594,Net Banking,Shipped
+659,709,23,2024-01-20,5,22990,Card,Returned
+660,643,79,2024-06-03,1,3902,Cash on Delivery,Returned
+661,242,1,2024-04-08,5,21495,UPI,Delivered
+662,884,80,2024-10-03,3,2886,Card,Returned
+663,284,99,2024-01-28,2,6492,Card,Delivered
+664,510,20,2024-03-31,4,14872,Card,Delivered
+665,292,7,2024-04-17,3,5682,Net Banking,Cancelled
+666,825,43,2024-08-20,5,15705,UPI,Delivered
+667,948,95,2024-10-02,1,1857,Card,Shipped
+668,528,4,2024-02-29,4,3612,UPI,Shipped
+669,607,93,2024-10-23,4,4868,Cash on Delivery,Returned
+670,236,26,2024-02-26,3,12627,Cash on Delivery,Shipped
+671,756,13,2024-07-30,2,3092,Card,Returned
+672,483,29,2024-10-26,1,3050,Net Banking,Delivered
+673,222,56,2024-11-08,2,4788,Net Banking,Shipped
+674,140,50,2024-08-22,3,6018,Card,Cancelled
+675,344,35,2024-03-06,2,2716,UPI,Delivered
+676,114,36,2024-08-26,2,7252,Net Banking,Returned
+677,226,22,2024-05-31,3,2136,Card,Shipped
+678,876,74,2024-04-27,5,6195,UPI,Returned
+679,883,67,2024-04-20,4,7580,Net Banking,Returned
+680,748,36,2024-08-07,1,3626,Card,Shipped
+681,594,42,2024-04-23,4,15576,Card,Delivered
+682,42,54,2024-08-28,1,4257,UPI,Returned
+683,491,68,2024-12-22,4,12292,UPI,Returned
+684,86,64,2024-10-12,2,6144,UPI,Returned
+685,368,28,2024-05-31,2,6830,Card,Delivered
+686,686,3,2024-06-05,4,10480,Card,Returned
+687,25,74,2024-08-20,5,6195,Net Banking,Shipped
+688,190,91,2024-07-08,4,12060,Net Banking,Delivered
+689,395,81,2024-12-19,1,2479,Cash on Delivery,Delivered
+690,771,38,2024-05-18,4,6884,Card,Delivered
+691,754,80,2024-01-29,3,2886,Cash on Delivery,Delivered
+692,375,15,2024-08-26,4,11644,UPI,Cancelled
+693,664,47,2024-10-13,2,8456,UPI,Shipped
+694,245,18,2024-10-03,3,11220,UPI,Returned
+695,893,95,2024-12-25,5,9285,Card,Shipped
+696,920,42,2024-05-16,3,11682,Net Banking,Cancelled
+697,382,7,2024-06-25,1,1894,Net Banking,Returned
+698,850,65,2024-03-03,5,18535,Net Banking,Cancelled
+699,377,58,2024-12-10,5,2700,UPI,Shipped
+700,83,59,2024-07-19,1,1990,Card,Cancelled
+701,169,10,2024-05-21,1,750,UPI,Shipped
+702,896,64,2024-04-14,2,6144,UPI,Cancelled
+703,955,54,2024-03-08,5,21285,Net Banking,Cancelled
+704,756,54,2024-11-26,4,17028,UPI,Cancelled
+705,23,25,2024-04-28,1,1133,Cash on Delivery,Returned
+706,672,75,2024-11-26,3,4194,Cash on Delivery,Returned
+707,863,76,2024-10-07,5,11135,Net Banking,Returned
+708,136,39,2024-06-05,5,23010,Card,Cancelled
+709,381,30,2024-05-27,4,15800,UPI,Shipped
+710,467,46,2024-03-26,3,12762,Card,Cancelled
+711,860,24,2024-12-28,2,5740,Card,Shipped
+712,43,31,2024-06-11,1,2636,Card,Returned
+713,189,34,2024-04-15,3,3474,UPI,Cancelled
+714,382,45,2024-08-17,2,6690,Card,Cancelled
+715,415,16,2024-09-12,1,3985,Card,Returned
+716,5,41,2024-10-06,2,2698,Cash on Delivery,Cancelled
+717,993,61,2024-10-20,3,1392,Card,Returned
+718,750,44,2024-09-02,1,1318,UPI,Shipped
+719,120,87,2024-06-06,5,9675,UPI,Returned
+720,457,80,2024-07-01,2,1924,UPI,Cancelled
+721,657,8,2024-04-09,5,15265,Card,Cancelled
+722,86,26,2024-10-02,1,4209,Net Banking,Delivered
+723,200,66,2024-09-08,4,5360,Cash on Delivery,Delivered
+724,408,86,2024-03-16,3,5952,Net Banking,Cancelled
+725,13,50,2024-05-25,3,6018,Cash on Delivery,Cancelled
+726,896,40,2024-10-14,4,6264,UPI,Shipped
+727,760,94,2024-07-31,4,15756,Net Banking,Cancelled
+728,747,21,2024-07-31,4,7836,Card,Delivered
+729,311,19,2024-08-31,2,3632,Cash on Delivery,Delivered
+730,91,76,2024-01-04,4,8908,Net Banking,Cancelled
+731,570,54,2024-08-24,2,8514,Card,Shipped
+732,297,24,2024-10-10,4,11480,Net Banking,Delivered
+733,312,39,2024-09-09,5,23010,Net Banking,Shipped
+734,158,4,2024-05-14,1,903,Cash on Delivery,Returned
+735,428,16,2024-04-01,3,11955,Net Banking,Shipped
+736,784,4,2024-05-21,1,903,Net Banking,Delivered
+737,596,77,2024-09-03,3,4092,Net Banking,Cancelled
+738,998,81,2024-12-21,4,9916,UPI,Cancelled
+739,18,66,2024-05-12,5,6700,Card,Delivered
+740,473,19,2024-12-20,3,5448,Card,Cancelled
+741,280,21,2024-07-03,1,1959,Net Banking,Cancelled
+742,299,7,2024-09-28,3,5682,UPI,Shipped
+743,784,99,2024-02-18,2,6492,Card,Cancelled
+744,278,41,2024-12-16,3,4047,Cash on Delivery,Delivered
+745,361,69,2024-03-14,5,23065,UPI,Shipped
+746,382,67,2024-09-05,3,5685,Net Banking,Cancelled
+747,224,21,2024-03-20,1,1959,Card,Shipped
+748,707,72,2024-09-26,5,4900,UPI,Returned
+749,120,59,2024-03-08,1,1990,UPI,Returned
+750,708,45,2024-07-04,3,10035,Card,Returned
+751,782,77,2024-06-24,5,6820,Card,Cancelled
+752,228,4,2024-03-06,1,903,Card,Shipped
+753,215,40,2024-03-07,2,3132,UPI,Returned
+754,80,89,2024-01-10,1,4683,Net Banking,Returned
+755,111,6,2024-01-17,2,6020,UPI,Returned
+756,45,16,2024-02-03,3,11955,Cash on Delivery,Delivered
+757,802,97,2024-03-04,1,2444,Card,Shipped
+758,30,24,2024-02-16,3,8610,Card,Cancelled
+759,361,75,2024-03-23,3,4194,Card,Delivered
+760,782,13,2024-01-08,5,7730,Card,Shipped
+761,924,37,2024-10-02,2,9816,UPI,Delivered
+762,872,28,2024-12-28,5,17075,Net Banking,Cancelled
+763,190,90,2024-08-13,5,24185,UPI,Shipped
+764,435,46,2024-04-19,4,17016,Card,Returned
+765,127,15,2024-08-26,3,8733,UPI,Shipped
+766,722,64,2024-05-27,3,9216,UPI,Delivered
+767,119,42,2024-07-16,4,15576,Cash on Delivery,Returned
+768,704,77,2024-08-15,3,4092,Card,Returned
+769,194,38,2024-02-05,4,6884,Net Banking,Cancelled
+770,691,23,2024-09-08,1,4598,UPI,Returned
+771,675,57,2024-12-12,5,16025,UPI,Delivered
+772,411,19,2024-12-21,4,7264,UPI,Shipped
+773,999,9,2024-04-11,3,11367,Cash on Delivery,Shipped
+774,126,77,2024-04-29,4,5456,Net Banking,Returned
+775,608,36,2024-05-19,5,18130,Net Banking,Cancelled
+776,973,61,2024-07-26,5,2320,Net Banking,Cancelled
+777,111,19,2024-03-03,4,7264,Cash on Delivery,Returned
+778,644,64,2024-03-09,2,6144,UPI,Delivered
+779,851,95,2024-02-04,1,1857,Net Banking,Delivered
+780,620,23,2024-12-13,4,18392,Cash on Delivery,Shipped
+781,639,39,2024-02-19,5,23010,UPI,Returned
+782,301,60,2024-12-04,2,4454,Net Banking,Returned
+783,556,65,2024-06-24,3,11121,UPI,Delivered
+784,393,56,2024-08-18,1,2394,Cash on Delivery,Returned
+785,37,57,2024-01-17,4,12820,Card,Cancelled
+786,504,91,2024-08-08,2,6030,Card,Cancelled
+787,500,92,2024-02-26,4,4060,Net Banking,Returned
+788,875,61,2024-03-21,5,2320,UPI,Returned
+789,606,34,2024-07-12,4,4632,Cash on Delivery,Cancelled
+790,29,42,2024-10-29,1,3894,UPI,Shipped
+791,829,47,2024-10-25,3,12684,UPI,Cancelled
+792,439,49,2024-06-25,1,877,Cash on Delivery,Returned
+793,678,45,2024-05-05,1,3345,Card,Shipped
+794,607,83,2024-02-13,3,660,UPI,Cancelled
+795,174,15,2024-01-11,3,8733,Cash on Delivery,Delivered
+796,582,59,2024-09-20,4,7960,Net Banking,Cancelled
+797,603,3,2024-01-12,4,10480,Cash on Delivery,Returned
+798,331,74,2024-10-20,4,4956,UPI,Returned
+799,345,13,2024-09-11,2,3092,Cash on Delivery,Shipped
+800,373,79,2024-08-11,3,11706,Card,Returned
+801,861,82,2024-10-01,1,4198,Card,Cancelled
+802,305,34,2024-10-20,1,1158,Net Banking,Shipped
+803,735,80,2024-10-23,1,962,UPI,Cancelled
+804,581,35,2024-09-28,1,1358,Net Banking,Returned
+805,815,27,2024-02-09,3,8301,Cash on Delivery,Cancelled
+806,321,56,2024-04-12,5,11970,Net Banking,Returned
+807,528,33,2024-08-20,5,5825,Card,Delivered
+808,884,81,2024-04-05,5,12395,Net Banking,Shipped
+809,275,85,2024-11-22,4,2872,Net Banking,Delivered
+810,374,67,2024-08-24,2,3790,Card,Shipped
+811,865,20,2024-08-10,3,11154,Net Banking,Cancelled
+812,867,9,2024-07-30,2,7578,Cash on Delivery,Cancelled
+813,263,83,2024-12-17,2,440,Card,Returned
+814,154,31,2024-04-08,1,2636,UPI,Shipped
+815,498,40,2024-10-13,4,6264,Net Banking,Returned
+816,207,83,2024-03-22,1,220,Cash on Delivery,Shipped
+817,809,4,2024-05-22,3,2709,Card,Delivered
+818,802,93,2024-01-11,4,4868,UPI,Delivered
+819,306,41,2024-02-02,5,6745,Net Banking,Cancelled
+820,407,86,2024-03-12,1,1984,Card,Delivered
+821,956,74,2024-03-02,5,6195,Cash on Delivery,Returned
+822,615,12,2024-03-03,2,6020,Cash on Delivery,Cancelled
+823,826,75,2024-04-30,4,5592,Net Banking,Shipped
+824,180,19,2024-04-19,1,1816,Cash on Delivery,Returned
+825,884,53,2024-10-28,3,11838,UPI,Returned
+826,717,69,2024-02-27,3,13839,Cash on Delivery,Returned
+827,987,61,2024-05-22,2,928,Card,Cancelled
+828,842,61,2024-06-06,3,1392,UPI,Delivered
+829,708,95,2024-12-09,1,1857,Card,Cancelled
+830,317,71,2024-11-23,4,9560,Cash on Delivery,Delivered
+831,879,69,2024-08-14,2,9226,Net Banking,Delivered
+832,309,51,2024-02-16,3,7353,Card,Cancelled
+833,938,27,2024-08-12,2,5534,Cash on Delivery,Returned
+834,888,5,2024-02-11,3,4080,Net Banking,Returned
+835,949,95,2024-06-19,4,7428,Net Banking,Delivered
+836,519,21,2024-02-03,3,5877,Cash on Delivery,Returned
+837,756,78,2024-06-16,5,12005,Net Banking,Delivered
+838,657,98,2024-11-24,1,3152,Card,Returned
+839,4,83,2024-07-24,2,440,Card,Cancelled
+840,85,41,2024-02-26,5,6745,Card,Shipped
+841,868,67,2024-10-31,2,3790,Net Banking,Cancelled
+842,895,58,2024-03-09,4,2160,Cash on Delivery,Shipped
+843,847,88,2024-06-16,5,14220,Cash on Delivery,Shipped
+844,377,11,2024-04-03,4,4568,Net Banking,Returned
+845,22,74,2024-01-12,2,2478,Card,Delivered
+846,269,60,2024-12-25,2,4454,Card,Delivered
+847,440,52,2024-11-03,5,12820,Cash on Delivery,Shipped
+848,175,12,2024-10-17,3,9030,UPI,Delivered
+849,446,92,2024-08-20,5,5075,Net Banking,Delivered
+850,196,29,2024-05-16,2,6100,Cash on Delivery,Returned
+851,442,49,2024-04-15,2,1754,Card,Cancelled
+852,429,94,2024-04-02,2,7878,Net Banking,Shipped
+853,1000,4,2024-05-14,3,2709,Card,Returned
+854,597,32,2024-12-16,3,2682,Net Banking,Delivered
+855,137,2,2024-06-14,4,1604,Net Banking,Shipped
+856,726,92,2024-08-04,4,4060,Cash on Delivery,Delivered
+857,61,13,2024-01-27,5,7730,Cash on Delivery,Shipped
+858,621,61,2024-12-09,3,1392,UPI,Delivered
+859,635,33,2024-07-14,5,5825,Cash on Delivery,Returned
+860,136,86,2024-10-13,3,5952,UPI,Shipped
+861,516,34,2024-09-09,2,2316,Cash on Delivery,Returned
+862,325,17,2024-12-29,1,3518,Net Banking,Shipped
+863,321,34,2024-01-23,1,1158,Card,Returned
+864,949,36,2024-08-08,3,10878,Cash on Delivery,Cancelled
+865,530,79,2024-06-09,3,11706,Net Banking,Shipped
+866,783,41,2024-03-18,4,5396,Net Banking,Delivered
+867,56,25,2024-04-27,2,2266,Card,Delivered
+868,168,61,2024-12-27,3,1392,Net Banking,Returned
+869,42,15,2024-08-14,4,11644,Cash on Delivery,Returned
+870,116,59,2024-03-16,4,7960,UPI,Cancelled
+871,890,12,2024-05-25,2,6020,Card,Shipped
+872,843,96,2024-05-19,5,13360,Card,Delivered
+873,185,68,2024-08-01,5,15365,UPI,Shipped
+874,694,99,2024-02-18,4,12984,Cash on Delivery,Delivered
+875,404,37,2024-07-10,1,4908,UPI,Cancelled
+876,84,20,2024-08-23,1,3718,Net Banking,Returned
+877,609,81,2024-12-02,3,7437,UPI,Cancelled
+878,974,6,2024-08-19,5,15050,Cash on Delivery,Shipped
+879,821,28,2024-11-25,1,3415,Cash on Delivery,Cancelled
+880,561,8,2024-11-04,1,3053,Net Banking,Delivered
+881,183,52,2024-05-02,3,7692,Net Banking,Delivered
+882,167,3,2024-07-17,2,5240,Net Banking,Cancelled
+883,124,83,2024-06-01,2,440,Net Banking,Returned
+884,926,95,2024-12-16,3,5571,Card,Cancelled
+885,853,86,2024-07-07,1,1984,Card,Returned
+886,488,58,2024-05-17,4,2160,Net Banking,Delivered
+887,831,97,2024-07-07,4,9776,Card,Returned
+888,96,81,2024-01-21,4,9916,Cash on Delivery,Returned
+889,664,87,2024-12-17,2,3870,Card,Returned
+890,86,68,2024-05-28,5,15365,Net Banking,Returned
+891,308,11,2024-03-17,4,4568,Card,Cancelled
+892,438,32,2024-05-31,5,4470,UPI,Delivered
+893,111,6,2024-09-18,5,15050,Net Banking,Returned
+894,677,13,2024-10-18,4,6184,Cash on Delivery,Cancelled
+895,84,33,2024-09-14,5,5825,UPI,Delivered
+896,184,95,2024-04-03,4,7428,Net Banking,Delivered
+897,898,11,2024-12-26,4,4568,Cash on Delivery,Cancelled
+898,776,76,2024-12-09,4,8908,Net Banking,Cancelled
+899,217,44,2024-04-04,2,2636,UPI,Cancelled
+900,445,87,2024-09-30,1,1935,UPI,Delivered
+901,14,51,2024-03-28,1,2451,Net Banking,Returned
+902,890,89,2024-12-02,4,18732,Net Banking,Cancelled
+903,370,80,2024-12-19,5,4810,Net Banking,Cancelled
+904,139,12,2024-01-08,2,6020,Card,Delivered
+905,880,3,2024-01-14,2,5240,Card,Returned
+906,666,84,2024-05-03,2,7910,Net Banking,Shipped
+907,789,12,2024-08-25,3,9030,Card,Returned
+908,120,55,2024-03-26,1,1127,Card,Returned
+909,21,63,2024-08-18,4,4644,Card,Shipped
+910,850,38,2024-07-19,5,8605,UPI,Cancelled
+911,646,2,2024-12-31,1,401,Net Banking,Returned
+912,611,64,2024-10-10,5,15360,Cash on Delivery,Delivered
+913,498,63,2024-09-19,4,4644,Net Banking,Shipped
+914,541,92,2024-01-10,1,1015,Net Banking,Cancelled
+915,275,71,2024-11-27,1,2390,Net Banking,Returned
+916,638,15,2024-11-26,4,11644,Cash on Delivery,Returned
+917,22,90,2024-03-23,4,19348,Cash on Delivery,Shipped
+918,449,61,2024-04-28,3,1392,Card,Cancelled
+919,135,78,2024-05-30,4,9604,Net Banking,Returned
+920,816,87,2024-08-29,3,5805,Card,Shipped
+921,684,37,2024-09-04,1,4908,Card,Shipped
+922,621,26,2024-09-08,2,8418,UPI,Returned
+923,241,64,2024-04-17,3,9216,UPI,Delivered
+924,366,46,2024-12-12,3,12762,Card,Shipped
+925,827,65,2024-02-02,1,3707,Cash on Delivery,Returned
+926,233,15,2024-03-02,5,14555,Card,Returned
+927,804,34,2024-06-30,3,3474,UPI,Cancelled
+928,619,20,2024-12-08,5,18590,UPI,Delivered
+929,986,57,2024-02-26,4,12820,UPI,Delivered
+930,520,72,2024-02-23,1,980,Card,Delivered
+931,161,27,2024-05-29,3,8301,Net Banking,Returned
+932,158,94,2024-11-27,1,3939,Cash on Delivery,Cancelled
+933,869,18,2024-04-13,1,3740,Net Banking,Returned
+934,252,99,2024-08-30,1,3246,Cash on Delivery,Cancelled
+935,88,65,2024-05-16,2,7414,Cash on Delivery,Returned
+936,156,47,2024-09-28,2,8456,Net Banking,Shipped
+937,424,18,2024-07-28,4,14960,Net Banking,Cancelled
+938,150,4,2024-01-06,4,3612,UPI,Delivered
+939,412,44,2024-03-25,3,3954,Net Banking,Delivered
+940,677,51,2024-11-24,1,2451,Card,Delivered
+941,997,81,2024-05-31,5,12395,Net Banking,Returned
+942,895,88,2024-06-04,5,14220,Cash on Delivery,Cancelled
+943,922,2,2024-09-27,3,1203,Card,Returned
+944,909,58,2024-10-05,2,1080,Net Banking,Cancelled
+945,795,84,2024-04-11,4,15820,Cash on Delivery,Delivered
+946,343,5,2024-07-18,5,6800,Card,Cancelled
+947,524,28,2024-10-09,1,3415,Cash on Delivery,Cancelled
+948,24,97,2024-01-15,2,4888,Cash on Delivery,Shipped
+949,744,100,2024-08-04,3,10338,UPI,Delivered
+950,643,48,2024-09-16,3,11508,Cash on Delivery,Delivered
+951,460,7,2024-06-01,1,1894,UPI,Returned
+952,825,44,2024-10-24,2,2636,Card,Cancelled
+953,683,39,2024-10-20,3,13806,Card,Returned
+954,108,67,2024-06-16,2,3790,Card,Cancelled
+955,151,59,2024-12-30,1,1990,Net Banking,Returned
+956,64,11,2024-08-05,1,1142,Card,Returned
+957,80,28,2024-07-08,4,13660,Net Banking,Returned
+958,511,34,2024-11-21,5,5790,Net Banking,Returned
+959,750,89,2024-08-01,4,18732,Card,Shipped
+960,497,65,2024-12-30,2,7414,Net Banking,Shipped
+961,884,91,2024-09-27,5,15075,UPI,Shipped
+962,34,59,2024-03-21,4,7960,Cash on Delivery,Delivered
+963,113,78,2024-03-02,4,9604,Cash on Delivery,Cancelled
+964,157,6,2024-03-01,5,15050,Cash on Delivery,Cancelled
+965,302,48,2024-09-05,3,11508,UPI,Shipped
+966,432,19,2024-01-25,5,9080,Cash on Delivery,Cancelled
+967,839,28,2024-09-07,2,6830,UPI,Delivered
+968,70,71,2024-01-23,3,7170,Net Banking,Returned
+969,580,74,2024-08-19,3,3717,Cash on Delivery,Returned
+970,136,61,2024-03-11,5,2320,Net Banking,Returned
+971,153,86,2024-06-15,4,7936,UPI,Returned
+972,922,50,2024-07-21,2,4012,Cash on Delivery,Delivered
+973,754,86,2024-05-22,4,7936,UPI,Shipped
+974,586,91,2024-11-18,1,3015,Cash on Delivery,Delivered
+975,88,83,2024-04-08,5,1100,UPI,Shipped
+976,515,97,2024-01-10,4,9776,UPI,Shipped
+977,806,3,2024-04-15,3,7860,Card,Returned
+978,622,11,2024-06-13,5,5710,Net Banking,Delivered
+979,349,63,2024-08-11,1,1161,Card,Returned
+980,325,4,2024-07-14,5,4515,Cash on Delivery,Delivered
+981,555,15,2024-03-27,1,2911,Cash on Delivery,Shipped
+982,787,24,2024-02-15,3,8610,Card,Cancelled
+983,61,53,2024-11-10,2,7892,Cash on Delivery,Shipped
+984,306,4,2024-07-18,1,903,UPI,Cancelled
+985,915,19,2024-06-14,4,7264,Cash on Delivery,Returned
+986,208,16,2024-05-02,1,3985,Card,Returned
+987,395,66,2024-02-28,5,6700,Cash on Delivery,Delivered
+988,567,41,2024-07-27,4,5396,UPI,Returned
+989,649,4,2024-04-29,4,3612,UPI,Cancelled
+990,692,71,2024-02-21,5,11950,Card,Shipped
+991,417,39,2024-08-16,5,23010,UPI,Shipped
+992,554,19,2024-03-27,3,5448,Card,Returned
+993,43,72,2024-01-01,4,3920,Net Banking,Cancelled
+994,1,84,2024-01-31,2,7910,Net Banking,Cancelled
+995,860,77,2024-12-14,3,4092,Net Banking,Cancelled
+996,600,81,2024-09-18,2,4958,Cash on Delivery,Delivered
+997,577,21,2024-02-05,5,9795,Cash on Delivery,Delivered
+998,851,51,2024-03-12,1,2451,Cash on Delivery,Returned
+999,517,27,2024-06-11,5,13835,Cash on Delivery,Cancelled
+1000,280,97,2024-05-05,4,9776,Cash on Delivery,Cancelled
